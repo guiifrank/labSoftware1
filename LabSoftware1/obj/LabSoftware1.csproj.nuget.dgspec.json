@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\OneDrive\\Tudo\\UCS\\9º Semestre\\Laboratório de Software\\Aulas 3 e 4\\Projeto\\LabSoftware1\\LabSoftware1\\LabSoftware1.csproj": {}
+    "C:\\Users\\User\\OneDrive\\Tudo\\UCS\\9º Semestre\\Laboratório de Software\\Aulas 3 e 4\\Projeto1\\LabSoftware1\\LabSoftware1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\OneDrive\\Tudo\\UCS\\9º Semestre\\Laboratório de Software\\Aulas 3 e 4\\Projeto\\LabSoftware1\\LabSoftware1\\LabSoftware1.csproj": {
+    "C:\\Users\\User\\OneDrive\\Tudo\\UCS\\9º Semestre\\Laboratório de Software\\Aulas 3 e 4\\Projeto1\\LabSoftware1\\LabSoftware1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Tudo\\UCS\\9º Semestre\\Laboratório de Software\\Aulas 3 e 4\\Projeto\\LabSoftware1\\LabSoftware1\\LabSoftware1.csproj",
+        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Tudo\\UCS\\9º Semestre\\Laboratório de Software\\Aulas 3 e 4\\Projeto1\\LabSoftware1\\LabSoftware1.csproj",
         "projectName": "LabSoftware1",
-        "projectPath": "C:\\Users\\User\\OneDrive\\Tudo\\UCS\\9º Semestre\\Laboratório de Software\\Aulas 3 e 4\\Projeto\\LabSoftware1\\LabSoftware1\\LabSoftware1.csproj",
+        "projectPath": "C:\\Users\\User\\OneDrive\\Tudo\\UCS\\9º Semestre\\Laboratório de Software\\Aulas 3 e 4\\Projeto1\\LabSoftware1\\LabSoftware1.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\OneDrive\\Tudo\\UCS\\9º Semestre\\Laboratório de Software\\Aulas 3 e 4\\Projeto\\LabSoftware1\\LabSoftware1\\obj\\",
+        "outputPath": "C:\\Users\\User\\OneDrive\\Tudo\\UCS\\9º Semestre\\Laboratório de Software\\Aulas 3 e 4\\Projeto1\\LabSoftware1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Visual Studio\\Componentes\\NuGetPackages"
